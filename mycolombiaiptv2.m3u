@@ -7,3 +7,7 @@ https://www.play.telecaribe.co/live
 
 #EXTINF:-1 tvg-id="Euronews.tv", Euronews
 https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/Caracol_Televisión_2020_logo.png" group-title="Colombia",Caracol TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
