@@ -5,5 +5,5 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemedellin.tv", Telemedellin
 https://telemedellin.tv/senal-en-vivo.m3u8
 
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-name="Telemedellín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Telemedellin_logo.png" group-title="Colombia",Telemedellín
+#EXTINF:-1 tvg-id="Telemedellin.co", Telemedellin
 https://liveingesta119.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
