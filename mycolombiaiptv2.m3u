@@ -2,8 +2,5 @@
 #EXTINF:-1 tvg-id="Cablenoticias.co",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemedellin.tv", Telemedellin
-https://telemedellin.tv/senal-en-vivo.m3u8
-
 #EXTINF:-1 tvg-id="Telemedellin.co", Telemedellin
 https://liveingesta119.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
