@@ -3,7 +3,7 @@
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelecaribePlus.co", Telecaribe
-https://live-edge01.telecaribe.com.co/live/smil:signal.smil/playlist.m3u8
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.tv", Euronews
 "https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live.m3u8
